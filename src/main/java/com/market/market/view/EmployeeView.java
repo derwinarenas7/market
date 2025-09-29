@@ -1,7 +1,6 @@
 package com.market.market.view;
 
 import com.market.market.dto.EmployeeDTO;
-import com.market.market.model.Employee;
 import lombok.*;
 
 import java.util.List;
