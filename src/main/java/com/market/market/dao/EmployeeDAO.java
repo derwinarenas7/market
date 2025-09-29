@@ -21,8 +21,8 @@ public class EmployeeDAO {
         employees.add(new Employee(6, "Santiago García", "Stock Clerk"));
         employees.add(new Employee(7, "Jose Diaz", "Cashier"));
         employees.add(new Employee(8, "Angie Diaz", "Customer Service"));
-        employees.add(new Employee(8, "Eliza Andrade", "Cashier"));
-        employees.add(new Employee(8, "Jaider Hurtado", "Customer Service"));
+        employees.add(new Employee(9, "Eliza Andrade", "Cashier"));
+        employees.add(new Employee(10, "Jaider Hurtado", "Customer Service"));
     }
 
     public List<EmployeeDTO> findByPosition(String position) {
